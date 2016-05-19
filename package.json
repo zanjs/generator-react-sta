@@ -70,7 +70,6 @@
     "webpack-hot-middleware": "^2.10.0",
     "whatwg-fetch": "^1.0.0"
   },
-  "private": true,
   "engines": {
     "node": ">=6",
     "npm": ">=3.8"
