@@ -6,7 +6,7 @@
 [![Dependency Status](http://img.shields.io/david/zanjs/generator-react-sta.svg?branch=master&style=flat-square)](https://david-dm.org/zanjs/generator-react-sta)
 [![GitHub Issues](https://img.shields.io/github/issues/zanjs/generator-react-sta.svg?style=flat-square)](https://github.com/zanjs/generator-react-sta/issues?q=is:open)
 [![To-do](https://img.shields.io/waffle/label/zanjs/generator-react-sta/to-do.svg?style=flat-square)](https://waffle.io/zanjs/generator-react-sta)
-[![In progress](https://img.shields.io/waffle/label/zanjs/generator-react-sta/in%20progress.svg?style=flat-square)](https://waffle.io/zanjs/generator-react-sta)
+[![In progress](https://img.shields.io/waffle/label/zanjs/generator-react-sta/in%20progress.svg?style=flat-square)](https://waffle.io/zanjs/generator-react-sta) [![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/generator-react-sta.svg)](https://greenkeeper.io/)
 
 > Static website starter kit powered by [React.js](http://facebook.github.io/react/) and [Webpack](http://webpack.github.io/)
 
